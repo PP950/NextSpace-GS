@@ -103,7 +103,7 @@ nextspace_db
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/nextspace_db?createDatabaseIfNotExist=true
 spring.datasource.username=root
-spring.datasource.password=sua_senha
+spring.datasource.password=fiap
 ```
 
 ---
