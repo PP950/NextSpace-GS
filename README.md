@@ -195,7 +195,8 @@ PUT-SENSOR
 DELETE-SENSOR
 <img width="1763" height="638" alt="image" src="https://github.com/user-attachments/assets/1f41ef28-7b45-4ec6-862c-e197638e8ed4" />
 
-
+## Tratamento de Exceções da API
+<img width="1818" height="766" alt="image" src="https://github.com/user-attachments/assets/71e89450-4f34-404b-a107-d6ed20b6c737" />
 
 
 
