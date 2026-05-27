@@ -198,6 +198,9 @@ DELETE-SENSOR
 ## Tratamento de Exceções da API
 <img width="1818" height="766" alt="image" src="https://github.com/user-attachments/assets/71e89450-4f34-404b-a107-d6ed20b6c737" />
 
+<img width="1818" height="766" alt="image" src="https://github.com/user-attachments/assets/c07012c1-f9ad-4871-bc81-e6f0355b6971" />
+
+
 
 
 
