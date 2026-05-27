@@ -18,7 +18,7 @@ O projeto simula um sistema espacial capaz de monitorar equipamentos espaciais e
 
 # 🛠️ Tecnologias Utilizadas
 
-- Java 25
+- Java 21
 - Spring Boot
 - Spring Web
 - Spring Data JPA
@@ -160,13 +160,52 @@ http://localhost:8080/swagger-ui.html
 # 📷 Evidências de Execução
 
 ## Swagger funcionando
-(Adicionar print)
+POST-SATELITE
+<img width="1726" height="752" alt="image" src="https://github.com/user-attachments/assets/5c59d8bd-b267-4768-abca-fa792c8fa77a" />
+
+GET-SATELITE
+<img width="1726" height="752" alt="image" src="https://github.com/user-attachments/assets/8b3121e1-b859-4aa4-85eb-b827483a8feb" />
+
+GET/ID-SATELITE
+<img width="1740" height="692" alt="image" src="https://github.com/user-attachments/assets/bd858f3a-4587-4df4-b9e6-dd5b6c692e68" />
+
+PUT-SATELITE
+<img width="1745" height="716" alt="image" src="https://github.com/user-attachments/assets/9ffe8763-2e01-42fd-9996-8213e0dcbf5c" />
+
+DELETE-SATELITE
+<img width="1747" height="707" alt="image" src="https://github.com/user-attachments/assets/d2378adc-04a9-4183-8e19-5f15c4db583f" />
+
+
+POST-SENSOR
+<img width="1753" height="796" alt="image" src="https://github.com/user-attachments/assets/c60b1bf9-dbf5-4935-98a7-aa0b0d0736de" />
+
+GET-SENSOR
+<img width="1746" height="820" alt="image" src="https://github.com/user-attachments/assets/0a5c0b2d-0aa8-4362-ab01-9dd4bbd088ed" />
+
+GET/ID-SENSOR
+<img width="1751" height="760" alt="image" src="https://github.com/user-attachments/assets/6db2f9cd-a5f3-4f40-a880-5c2b00bcfeba" />
+
+PUT-SENSOR
+<img width="1763" height="796" alt="image" src="https://github.com/user-attachments/assets/6524786c-e971-4f77-84d5-706c6058894c" />
+
+DELETE-SENSOR
+<img width="1763" height="638" alt="image" src="https://github.com/user-attachments/assets/1f41ef28-7b45-4ec6-862c-e197638e8ed4" />
+
+
+
+
+
 
 ## Banco de dados funcionando
-(Adicionar print)
+TABELA DE EQUIPAMENTO ESPACIAL
+<img width="1873" height="766" alt="image" src="https://github.com/user-attachments/assets/374764d1-50fe-42b1-b088-84bf40823c34" />
 
-## Endpoints funcionando
-(Adicionar print)
+
+TABELA DE SATELITE
+<img width="1873" height="766" alt="image" src="https://github.com/user-attachments/assets/b57e488d-8620-4162-b4b0-8579803ac962" />
+
+TABELA DE SENSOR
+<img width="1873" height="766" alt="image" src="https://github.com/user-attachments/assets/2370d9d1-3e2b-4ea9-8986-32febfba484c" />
 
 ---
 
