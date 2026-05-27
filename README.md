@@ -154,16 +154,12 @@ http://localhost:8080/swagger-ui.html
   "sateliteId": 1
 }
 ```
-
-```
+# UML E FLUXOGRAMA
 UML
 <img width="591" height="449" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/a6f4ff84-a68f-49bc-ada5-68c3cef98e33" />
-```
 
-```
 FLUXOGRAMA
 <img width="582" height="396" alt="Diagrama sem nome drawio(1)" src="https://github.com/user-attachments/assets/8b65ab25-11de-4bd8-bea7-34a0ab6fccc1" />
-```
 
 # 📷 Evidências de Execução
 
